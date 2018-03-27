@@ -5,7 +5,6 @@ import com.donny.observer2.DisplayElement;
 import java.util.Observable;
 import java.util.Observer;
 
-
 /**
  * 现状布告板
  * 实现了Observer接口(内置)
@@ -31,7 +30,6 @@ public class CurrentConditionsDisplay implements Observer, DisplayElement {
         System.out.println("Current conditions: " + temperature +
                 "F degrees and " + humidity + "% humidity and " + pressure);
     }
-
 
     /**
      *

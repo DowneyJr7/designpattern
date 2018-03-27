@@ -14,5 +14,4 @@ public class PopcornPopper {
         System.out.println("Popcorn Popper popping popcorn!");
     }
 
-
 }

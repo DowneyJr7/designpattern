@@ -1,12 +1,9 @@
 package com.donny.adapter7.duckturkey;
 
-
 /**
  * 火鸡适配器
  * 火鸡 转 鸭子
  */
-
-
 public class TurkeyAdapter implements Duck {
     Turkey turkey;
 

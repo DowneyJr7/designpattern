@@ -4,8 +4,6 @@ package com.donny.strategy1;
 /**
  * 绿头鸭子
  */
-
-
 public class MallardDuck extends Duck {
 
     public MallardDuck(){

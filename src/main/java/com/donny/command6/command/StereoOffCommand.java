@@ -2,13 +2,10 @@ package com.donny.command6.command;
 
 import com.donny.command6.client.Stereo;
 
-
 /**
  * 音响关闭命令
  * 这是一个命令，所以需要实现Command接口
  */
-
-
 public class StereoOffCommand implements Command {
     Stereo stereo;
 

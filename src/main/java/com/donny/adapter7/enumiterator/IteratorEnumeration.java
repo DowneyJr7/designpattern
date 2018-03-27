@@ -3,12 +3,9 @@ package com.donny.adapter7.enumiterator;
 import java.util.Enumeration;
 import java.util.Iterator;
 
-
 /**
  * 迭代器
  */
-
-
 public class IteratorEnumeration implements Enumeration {
     Iterator iterator;
 

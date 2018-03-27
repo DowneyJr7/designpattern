@@ -1,11 +1,8 @@
 package com.donny.adapter7.duckturkey;
 
-
 /**
  *  绿头鸭
  */
-
-
 public class MallardDuck implements Duck {
     @Override
     public void quack() {

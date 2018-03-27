@@ -4,12 +4,9 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
-
 /**
  * 咖啡因吊钩
  */
-
-
 public class CoffeeWithHook extends CaffeineBeverageithHook {
     @Override
     public void brew() {

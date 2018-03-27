@@ -3,12 +3,9 @@ package com.donny.templatemethod8.sort;
 import javax.swing.*;
 import java.awt.*;
 
-
 /**
  * Swing
  */
-
-
 public class MyFrame extends JFrame {
     public MyFrame(String title){
         super(title);

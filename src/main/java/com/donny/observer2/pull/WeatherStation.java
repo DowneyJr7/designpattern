@@ -1,6 +1,5 @@
 package com.donny.observer2.pull;
 
-
 public class WeatherStation {
     public static void main(String[] args) {
         WeatherData weatherData = new WeatherData();

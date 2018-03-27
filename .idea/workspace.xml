@@ -2,72 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ab40f216-7676-4d6e-b97f-ca6246dc8749" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/donny/command6/Simple/RemoteControlTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/donny/command6/Simple/SimpleRemoteControl.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/donny/singleton5/test.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/donny/command6/Simple/RemoteControlTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/donny/command6/Simple/SimpleRemoteControl.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/donny/singleton5/test.class" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/donny/adapter7/duckturkey/DuckAdapter.class" afterPath="$PROJECT_DIR$/target/classes/com/donny/adapter7/duckturkey/DuckAdapter.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/donny/adapter7/duckturkey/MallardDuck.class" afterPath="$PROJECT_DIR$/target/classes/com/donny/adapter7/duckturkey/MallardDuck.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/donny/adapter7/duckturkey/TurkeyAdapter.class" afterPath="$PROJECT_DIR$/target/classes/com/donny/adapter7/duckturkey/TurkeyAdapter.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/donny/adapter7/duckturkey/WildTurkey.class" afterPath="$PROJECT_DIR$/target/classes/com/donny/adapter7/duckturkey/WildTurkey.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/donny/adapter7/enumiterator/EnumerationIterator.class" afterPath="$PROJECT_DIR$/target/classes/com/donny/adapter7/enumiterator/EnumerationIterator.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/donny/adapter7/enumiterator/IteratorEnumeration.class" afterPath="$PROJECT_DIR$/target/classes/com/donny/adapter7/enumiterator/IteratorEnumeration.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/donny/adapter7/facade/HomeTheaterFacade.class" afterPath="$PROJECT_DIR$/target/classes/com/donny/adapter7/facade/HomeTheaterFacade.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/donny/command6/RemoteControlWithUndo.class" afterPath="$PROJECT_DIR$/target/classes/com/donny/command6/RemoteControlWithUndo.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/donny/command6/RemoteLoader.class" afterPath="$PROJECT_DIR$/target/classes/com/donny/command6/RemoteLoader.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/donny/command6/client/CeilingFan.class" afterPath="$PROJECT_DIR$/target/classes/com/donny/command6/client/CeilingFan.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/donny/command6/command/CeilingFanHighComand.class" afterPath="$PROJECT_DIR$/target/classes/com/donny/command6/command/CeilingFanHighComand.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/donny/command6/command/CeilingFanMediumComand.class" afterPath="$PROJECT_DIR$/target/classes/com/donny/command6/command/CeilingFanMediumComand.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/donny/command6/command/CeilingFanOffComand.class" afterPath="$PROJECT_DIR$/target/classes/com/donny/command6/command/CeilingFanOffComand.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/donny/command6/command/GarageDoorDownCommand.class" afterPath="$PROJECT_DIR$/target/classes/com/donny/command6/command/GarageDoorDownCommand.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/donny/command6/command/GarageDoorUpCommand.class" afterPath="$PROJECT_DIR$/target/classes/com/donny/command6/command/GarageDoorUpCommand.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/donny/command6/command/LightOffCommand.class" afterPath="$PROJECT_DIR$/target/classes/com/donny/command6/command/LightOffCommand.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/donny/command6/command/MacroCommand.class" afterPath="$PROJECT_DIR$/target/classes/com/donny/command6/command/MacroCommand.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/donny/command6/command/NoCommand.class" afterPath="$PROJECT_DIR$/target/classes/com/donny/command6/command/NoCommand.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/donny/command6/command/StereoOffCommand.class" afterPath="$PROJECT_DIR$/target/classes/com/donny/command6/command/StereoOffCommand.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/donny/command6/command/StereoOnWithCDCommand.class" afterPath="$PROJECT_DIR$/target/classes/com/donny/command6/command/StereoOnWithCDCommand.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/donny/decorate3/beverage/Beverage.class" afterPath="$PROJECT_DIR$/target/classes/com/donny/decorate3/beverage/Beverage.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/donny/decorate3/beverage/coffee/HouseBlend.class" afterPath="$PROJECT_DIR$/target/classes/com/donny/decorate3/beverage/coffee/HouseBlend.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/donny/decorate3/beverage/condiment/CondimentDecorator.class" afterPath="$PROJECT_DIR$/target/classes/com/donny/decorate3/beverage/condiment/CondimentDecorator.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/donny/decorate3/javaio/InputTest.class" afterPath="$PROJECT_DIR$/target/classes/com/donny/decorate3/javaio/InputTest.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/donny/decorate3/javaio/LowerCaseInputStream.class" afterPath="$PROJECT_DIR$/target/classes/com/donny/decorate3/javaio/LowerCaseInputStream.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/donny/factory4/abstractf/pizza/Pizza.class" afterPath="$PROJECT_DIR$/target/classes/com/donny/factory4/abstractf/pizza/Pizza.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/donny/factory4/fmethod/pizza/Pizza.class" afterPath="$PROJECT_DIR$/target/classes/com/donny/factory4/fmethod/pizza/Pizza.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/donny/factory4/fmethod/store/PizzaStore.class" afterPath="$PROJECT_DIR$/target/classes/com/donny/factory4/fmethod/store/PizzaStore.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/donny/observer2/pull/CurrentConditionsDisplay.class" afterPath="$PROJECT_DIR$/target/classes/com/donny/observer2/pull/CurrentConditionsDisplay.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/donny/observer2/pull/WeatherData.class" afterPath="$PROJECT_DIR$/target/classes/com/donny/observer2/pull/WeatherData.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/donny/observer2/push/CurrentConditionsDisplay.class" afterPath="$PROJECT_DIR$/target/classes/com/donny/observer2/push/CurrentConditionsDisplay.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/donny/observer2/push/WeatherData.class" afterPath="$PROJECT_DIR$/target/classes/com/donny/observer2/push/WeatherData.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/donny/observer2/swing/SwingObserverExample$AngelListener.class" afterPath="$PROJECT_DIR$/target/classes/com/donny/observer2/swing/SwingObserverExample$AngelListener.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/donny/observer2/swing/SwingObserverExample$DevilListener.class" afterPath="$PROJECT_DIR$/target/classes/com/donny/observer2/swing/SwingObserverExample$DevilListener.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/donny/observer2/swing/SwingObserverExample.class" afterPath="$PROJECT_DIR$/target/classes/com/donny/observer2/swing/SwingObserverExample.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/donny/singleton5/chocolates/ChocolateBoiler.class" afterPath="$PROJECT_DIR$/target/classes/com/donny/singleton5/chocolates/ChocolateBoiler.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/donny/singleton5/classic/Singleton.class" afterPath="$PROJECT_DIR$/target/classes/com/donny/singleton5/classic/Singleton.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/donny/strategy1/Duck.class" afterPath="$PROJECT_DIR$/target/classes/com/donny/strategy1/Duck.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/donny/strategy1/FlyNoWay.class" afterPath="$PROJECT_DIR$/target/classes/com/donny/strategy1/FlyNoWay.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/donny/strategy1/FlyRocketPowered.class" afterPath="$PROJECT_DIR$/target/classes/com/donny/strategy1/FlyRocketPowered.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/donny/strategy1/FlyWithWings.class" afterPath="$PROJECT_DIR$/target/classes/com/donny/strategy1/FlyWithWings.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/donny/strategy1/MallardDuck.class" afterPath="$PROJECT_DIR$/target/classes/com/donny/strategy1/MallardDuck.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/donny/strategy1/ModelDuck.class" afterPath="$PROJECT_DIR$/target/classes/com/donny/strategy1/ModelDuck.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/donny/strategy1/MuteQuack.class" afterPath="$PROJECT_DIR$/target/classes/com/donny/strategy1/MuteQuack.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/donny/strategy1/Quack.class" afterPath="$PROJECT_DIR$/target/classes/com/donny/strategy1/Quack.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/donny/strategy1/RedheadDuck.class" afterPath="$PROJECT_DIR$/target/classes/com/donny/strategy1/RedheadDuck.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/donny/strategy1/Squeak.class" afterPath="$PROJECT_DIR$/target/classes/com/donny/strategy1/Squeak.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/donny/templatemethod8/coffeetea/CaffeineBeverage.class" afterPath="$PROJECT_DIR$/target/classes/com/donny/templatemethod8/coffeetea/CaffeineBeverage.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/donny/templatemethod8/coffeetea/CaffeineBeverageithHook.class" afterPath="$PROJECT_DIR$/target/classes/com/donny/templatemethod8/coffeetea/CaffeineBeverageithHook.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/donny/templatemethod8/coffeetea/Coffee.class" afterPath="$PROJECT_DIR$/target/classes/com/donny/templatemethod8/coffeetea/Coffee.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/donny/templatemethod8/coffeetea/CoffeeWithHook.class" afterPath="$PROJECT_DIR$/target/classes/com/donny/templatemethod8/coffeetea/CoffeeWithHook.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/donny/templatemethod8/coffeetea/Tea.class" afterPath="$PROJECT_DIR$/target/classes/com/donny/templatemethod8/coffeetea/Tea.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/donny/templatemethod8/sort/Duck.class" afterPath="$PROJECT_DIR$/target/classes/com/donny/templatemethod8/sort/Duck.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/donny/templatemethod8/sort/MyApplet.class" afterPath="$PROJECT_DIR$/target/classes/com/donny/templatemethod8/sort/MyApplet.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/donny/templatemethod8/sort/MyFrame.class" afterPath="$PROJECT_DIR$/target/classes/com/donny/templatemethod8/sort/MyFrame.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/donny/adapter7/duckturkey/Duck.java" afterPath="$PROJECT_DIR$/src/main/java/com/donny/adapter7/duckturkey/Duck.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/donny/adapter7/duckturkey/DuckAdapter.java" afterPath="$PROJECT_DIR$/src/main/java/com/donny/adapter7/duckturkey/DuckAdapter.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/donny/adapter7/duckturkey/MallardDuck.java" afterPath="$PROJECT_DIR$/src/main/java/com/donny/adapter7/duckturkey/MallardDuck.java" />
@@ -76,40 +10,36 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/donny/adapter7/duckturkey/WildTurkey.java" afterPath="$PROJECT_DIR$/src/main/java/com/donny/adapter7/duckturkey/WildTurkey.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/donny/adapter7/enumiterator/EnumerationIterator.java" afterPath="$PROJECT_DIR$/src/main/java/com/donny/adapter7/enumiterator/EnumerationIterator.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/donny/adapter7/enumiterator/IteratorEnumeration.java" afterPath="$PROJECT_DIR$/src/main/java/com/donny/adapter7/enumiterator/IteratorEnumeration.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/donny/adapter7/facade/CDPlayer.java" afterPath="$PROJECT_DIR$/src/main/java/com/donny/adapter7/facade/CDPlayer.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/donny/adapter7/facade/HomeTheaterFacade.java" afterPath="$PROJECT_DIR$/src/main/java/com/donny/adapter7/facade/HomeTheaterFacade.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/donny/adapter7/facade/PopcornPopper.java" afterPath="$PROJECT_DIR$/src/main/java/com/donny/adapter7/facade/PopcornPopper.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/donny/command6/RemoteControlWithUndo.java" afterPath="$PROJECT_DIR$/src/main/java/com/donny/command6/RemoteControlWithUndo.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/donny/command6/RemoteLoader.java" afterPath="$PROJECT_DIR$/src/main/java/com/donny/command6/RemoteLoader.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/donny/command6/client/CeilingFan.java" afterPath="$PROJECT_DIR$/src/main/java/com/donny/command6/client/CeilingFan.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/donny/command6/command/CeilingFanHighComand.java" afterPath="$PROJECT_DIR$/src/main/java/com/donny/command6/command/CeilingFanHighComand.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/donny/command6/command/CeilingFanMediumComand.java" afterPath="$PROJECT_DIR$/src/main/java/com/donny/command6/command/CeilingFanMediumComand.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/donny/command6/command/CeilingFanOffComand.java" afterPath="$PROJECT_DIR$/src/main/java/com/donny/command6/command/CeilingFanOffComand.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/donny/command6/command/Command.java" afterPath="$PROJECT_DIR$/src/main/java/com/donny/command6/command/Command.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/donny/command6/command/GarageDoorDownCommand.java" afterPath="$PROJECT_DIR$/src/main/java/com/donny/command6/command/GarageDoorDownCommand.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/donny/command6/command/GarageDoorUpCommand.java" afterPath="$PROJECT_DIR$/src/main/java/com/donny/command6/command/GarageDoorUpCommand.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/donny/command6/command/LightOffCommand.java" afterPath="$PROJECT_DIR$/src/main/java/com/donny/command6/command/LightOffCommand.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/donny/command6/command/MacroCommand.java" afterPath="$PROJECT_DIR$/src/main/java/com/donny/command6/command/MacroCommand.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/donny/command6/command/NoCommand.java" afterPath="$PROJECT_DIR$/src/main/java/com/donny/command6/command/NoCommand.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/donny/command6/command/StereoOffCommand.java" afterPath="$PROJECT_DIR$/src/main/java/com/donny/command6/command/StereoOffCommand.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/donny/command6/command/StereoOnWithCDCommand.java" afterPath="$PROJECT_DIR$/src/main/java/com/donny/command6/command/StereoOnWithCDCommand.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/donny/decorate3/beverage/Beverage.java" afterPath="$PROJECT_DIR$/src/main/java/com/donny/decorate3/beverage/Beverage.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/donny/decorate3/beverage/coffee/HouseBlend.java" afterPath="$PROJECT_DIR$/src/main/java/com/donny/decorate3/beverage/coffee/HouseBlend.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/donny/decorate3/beverage/condiment/CondimentDecorator.java" afterPath="$PROJECT_DIR$/src/main/java/com/donny/decorate3/beverage/condiment/CondimentDecorator.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/donny/decorate3/javaio/InputTest.java" afterPath="$PROJECT_DIR$/src/main/java/com/donny/decorate3/javaio/InputTest.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/donny/decorate3/javaio/LowerCaseInputStream.java" afterPath="$PROJECT_DIR$/src/main/java/com/donny/decorate3/javaio/LowerCaseInputStream.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/donny/factory4/abstractf/ingredient/PizzaIngredientFactory.java" afterPath="$PROJECT_DIR$/src/main/java/com/donny/factory4/abstractf/ingredient/PizzaIngredientFactory.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/donny/factory4/abstractf/pizza/Pizza.java" afterPath="$PROJECT_DIR$/src/main/java/com/donny/factory4/abstractf/pizza/Pizza.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/donny/factory4/fmethod/pizza/Pizza.java" afterPath="$PROJECT_DIR$/src/main/java/com/donny/factory4/fmethod/pizza/Pizza.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/donny/factory4/fmethod/store/PizzaStore.java" afterPath="$PROJECT_DIR$/src/main/java/com/donny/factory4/fmethod/store/PizzaStore.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/donny/observer2/DisplayElement.java" afterPath="$PROJECT_DIR$/src/main/java/com/donny/observer2/DisplayElement.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/donny/observer2/pull/CurrentConditionsDisplay.java" afterPath="$PROJECT_DIR$/src/main/java/com/donny/observer2/pull/CurrentConditionsDisplay.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/donny/observer2/pull/WeatherData.java" afterPath="$PROJECT_DIR$/src/main/java/com/donny/observer2/pull/WeatherData.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/donny/observer2/pull/WeatherStation.java" afterPath="$PROJECT_DIR$/src/main/java/com/donny/observer2/pull/WeatherStation.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/donny/observer2/push/CurrentConditionsDisplay.java" afterPath="$PROJECT_DIR$/src/main/java/com/donny/observer2/push/CurrentConditionsDisplay.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/donny/observer2/push/Observer.java" afterPath="$PROJECT_DIR$/src/main/java/com/donny/observer2/push/Observer.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/donny/observer2/push/Subject.java" afterPath="$PROJECT_DIR$/src/main/java/com/donny/observer2/push/Subject.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/donny/observer2/push/WeatherData.java" afterPath="$PROJECT_DIR$/src/main/java/com/donny/observer2/push/WeatherData.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/donny/observer2/swing/SwingObserverExample.java" afterPath="$PROJECT_DIR$/src/main/java/com/donny/observer2/swing/SwingObserverExample.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/donny/singleton5/chocolates/ChocolateBoiler.java" afterPath="$PROJECT_DIR$/src/main/java/com/donny/singleton5/chocolates/ChocolateBoiler.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/donny/singleton5/classic/Singleton.java" afterPath="$PROJECT_DIR$/src/main/java/com/donny/singleton5/classic/Singleton.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/donny/strategy1/Duck.java" afterPath="$PROJECT_DIR$/src/main/java/com/donny/strategy1/Duck.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/donny/strategy1/FlyBehavior.java" afterPath="$PROJECT_DIR$/src/main/java/com/donny/strategy1/FlyBehavior.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/donny/strategy1/FlyNoWay.java" afterPath="$PROJECT_DIR$/src/main/java/com/donny/strategy1/FlyNoWay.java" />
@@ -171,57 +101,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/donny/command6/command/CeilingFanOnComand.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/donny/command6/command/CeilingFanHighComand.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/donny/command6/command/CeilingFanMediumComand.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/donny/command6/command/CeilingFanOffComand.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/donny/command6/command/MacroCommand.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/donny/command6/command/StereoOnWithCDCommand.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/donny/command6/command/StereoOffCommand.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/donny/adapter7/Duck.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/donny/adapter7/MallardDuck.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/donny/adapter7/Turkey.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/donny/adapter7/WildTurkey.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/donny/adapter7/TurkeyAdapter.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/donny/adapter7/DuckTestDrive.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/donny/adapter7/DuckAdapter.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/donny/adapter7/EnumerationIterator.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/donny/adapter7/IteratorEnumeration.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/donny/adapter7/enumiterator/EnumerationIterator.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/donny/adapter7/enumiterator/IteratorEnumeration.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/donny/adapter7/enumiterator/ArrayListTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/donny/adapter7/duckturkey/Turkey.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/donny/adapter7/facade/Tuner.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/donny/adapter7/facade/CDPlayer.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/donny/adapter7/facade/PopcornPopper.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/donny/adapter7/facade/TheaterLights.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/donny/adapter7/facade/Screen.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/donny/adapter7/facade/Projector.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/donny/adapter7/facade/Amplifier.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/donny/adapter7/facade/HomeTheaterFacade.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/donny/adapter7/facade/DVDPlayer.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/donny/adapter7/facade/HomeTheaterTestDrive.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/donny/templatemethod8/CaffeineBeverage.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/donny/templatemethod8/Tea.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/donny/templatemethod8/Coffee.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/donny/templatemethod8/BeverageTestDrive.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/donny/templatemethod8/CaffeineBeverageithHook.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/donny/templatemethod8/CoffeeWithHook.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/donny/templatemethod8/coffeetea/Tea.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/donny/templatemethod8/sort/Duck.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/donny/templatemethod8/sort/DuckSortTestDrive.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/donny/templatemethod8/sort/MyFrame.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/donny/templatemethod8/sort/MyApplet.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/donny/strategy1/MuteQuack.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/donny/strategy1/Quack.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/donny/strategy1/QuackBehavior.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/donny/strategy1/RedheadDuck.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/donny/strategy1/Squeak.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/donny/observer2/DisplayElement.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/donny/observer2/swing/SwingObserverExample.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/donny/observer2/push/CurrentConditionsDisplay.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/donny/observer2/push/Observer.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/donny/observer2/push/WeatherData.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/donny/observer2/pull/CurrentConditionsDisplay.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/donny/factory4/fmethod/pizza/Pizza.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/donny/observer2/push/Subject.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/donny/strategy1/Duck.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/donny/decorate3/beverage/Beverage.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/donny/decorate3/javaio/InputTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/donny/observer2/swing/SwingObserverExample.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/donny/command6/RemoteLoader.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/donny/observer2/pull/WeatherData.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/donny/observer2/pull/WeatherStation.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/donny/decorate3/beverage/coffee/HouseBlend.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/donny/decorate3/beverage/condiment/CondimentDecorator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/donny/decorate3/javaio/LowerCaseInputStream.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/donny/factory4/abstractf/ingredient/PizzaIngredientFactory.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/donny/factory4/abstractf/pizza/Pizza.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/donny/factory4/fmethod/store/PizzaStore.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/donny/singleton5/chocolates/ChocolateBoiler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/donny/command6/client/CeilingFan.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/donny/command6/command/CeilingFanHighComand.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/donny/command6/command/CeilingFanMediumComand.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/donny/command6/command/Command.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/donny/command6/command/CeilingFanOffComand.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/donny/command6/command/GarageDoorDownCommand.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/donny/command6/command/LightOffCommand.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/donny/command6/command/MacroCommand.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/donny/command6/command/NoCommand.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/donny/command6/command/StereoOffCommand.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/donny/command6/command/StereoOnWithCDCommand.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/donny/command6/RemoteControlWithUndo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/donny/adapter7/duckturkey/Duck.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/donny/adapter7/duckturkey/DuckAdapter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/donny/adapter7/duckturkey/MallardDuck.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/donny/adapter7/duckturkey/Turkey.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/donny/adapter7/duckturkey/TurkeyAdapter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/donny/adapter7/duckturkey/WildTurkey.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/donny/adapter7/enumiterator/EnumerationIterator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/donny/adapter7/enumiterator/IteratorEnumeration.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/donny/adapter7/facade/CDPlayer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/donny/adapter7/facade/HomeTheaterFacade.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/donny/adapter7/facade/PopcornPopper.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/donny/templatemethod8/coffeetea/CaffeineBeverage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/donny/templatemethod8/coffeetea/CaffeineBeverageithHook.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/donny/templatemethod8/coffeetea/Coffee.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/donny/templatemethod8/coffeetea/CoffeeWithHook.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/donny/templatemethod8/coffeetea/Tea.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/donny/templatemethod8/sort/Duck.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/donny/templatemethod8/sort/MyApplet.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/donny/templatemethod8/sort/MyFrame.java" />
       </list>
     </option>
   </component>
@@ -261,117 +191,12 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="designpattern" type="b2602c69:ProjectViewProjectNode" />
               <item name="designpattern" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="designpattern" type="b2602c69:ProjectViewProjectNode" />
-              <item name="designpattern" type="462c0819:PsiDirectoryNode" />
-              <item name=".idea" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="designpattern" type="b2602c69:ProjectViewProjectNode" />
-              <item name="designpattern" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="designpattern" type="b2602c69:ProjectViewProjectNode" />
-              <item name="designpattern" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="designpattern" type="b2602c69:ProjectViewProjectNode" />
-              <item name="designpattern" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="designpattern" type="b2602c69:ProjectViewProjectNode" />
-              <item name="designpattern" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="donny" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="designpattern" type="b2602c69:ProjectViewProjectNode" />
-              <item name="designpattern" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="donny" type="462c0819:PsiDirectoryNode" />
-              <item name="decorate3" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="designpattern" type="b2602c69:ProjectViewProjectNode" />
-              <item name="designpattern" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="donny" type="462c0819:PsiDirectoryNode" />
-              <item name="decorate3" type="462c0819:PsiDirectoryNode" />
-              <item name="beverage" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="designpattern" type="b2602c69:ProjectViewProjectNode" />
-              <item name="designpattern" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="donny" type="462c0819:PsiDirectoryNode" />
-              <item name="decorate3" type="462c0819:PsiDirectoryNode" />
-              <item name="javaio" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="designpattern" type="b2602c69:ProjectViewProjectNode" />
-              <item name="designpattern" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="donny" type="462c0819:PsiDirectoryNode" />
-              <item name="iterandcomp9" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="designpattern" type="b2602c69:ProjectViewProjectNode" />
-              <item name="designpattern" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="donny" type="462c0819:PsiDirectoryNode" />
-              <item name="iterandcomp9" type="462c0819:PsiDirectoryNode" />
-              <item name="composite" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="designpattern" type="b2602c69:ProjectViewProjectNode" />
-              <item name="designpattern" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="donny" type="462c0819:PsiDirectoryNode" />
-              <item name="iterandcomp9" type="462c0819:PsiDirectoryNode" />
-              <item name="iterator" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="designpattern" type="b2602c69:ProjectViewProjectNode" />
-              <item name="designpattern" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="donny" type="462c0819:PsiDirectoryNode" />
-              <item name="status10" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="designpattern" type="b2602c69:ProjectViewProjectNode" />
-              <item name="designpattern" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -394,6 +219,7 @@
         </subPane>
       </pane>
       <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -439,12 +265,92 @@
       </list>
     </option>
   </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" default="true" selected="false">
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+    </configuration>
+  </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="81729239-c769-4695-ad60-324fd9e85830" name="Default" comment="" />
+      <changelist id="ab40f216-7676-4d6e-b97f-ca6246dc8749" name="Default" comment="" />
       <created>1522132075226</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -456,25 +362,25 @@
     <frame x="0" y="-4" width="1366" height="709" extended-state="6" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32933104" sideWeight="0.49697885" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32933104" sideWeight="0.5030211" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32933104" sideWeight="0.5030211" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32933104" sideWeight="0.49697885" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32933104" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32933104" sideWeight="0.49697885" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32933104" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -487,321 +393,41 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/donny/command6/command/LightOffCommand.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="7" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/donny/command6/command/StereoOffCommand.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="5" column="5" lean-forward="false" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/donny/command6/command/LightOnCommand.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="5" column="3" lean-forward="false" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/donny/command6/command/GarageDoorDownCommand.java">
-      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="54">
-          <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="7" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/donny/command6/command/GarageDoorUpCommand.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="5" column="7" lean-forward="false" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/donny/command6/command/StereoOnWithCDCommand.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="5" column="9" lean-forward="true" selection-start-line="5" selection-start-column="9" selection-end-line="6" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/donny/command6/command/MacroCommand.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
-          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="5" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/donny/command6/command/NoCommand.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="3" column="4" lean-forward="false" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/donny/adapter7/duckturkey/Duck.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="3" column="6" lean-forward="false" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/donny/adapter7/duckturkey/Turkey.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="3" column="5" lean-forward="false" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/donny/adapter7/duckturkey/WildTurkey.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="3" column="19" lean-forward="false" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/donny/adapter7/duckturkey/MallardDuck.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="3" column="7" lean-forward="false" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/donny/adapter7/duckturkey/TurkeyAdapter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
-          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="5" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/donny/adapter7/duckturkey/DuckAdapter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="6" column="7" lean-forward="true" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/donny/adapter7/enumiterator/IteratorEnumeration.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="6" lean-forward="false" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/donny/adapter7/enumiterator/EnumerationIterator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="3" lean-forward="true" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/donny/adapter7/facade/Amplifier.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/donny/adapter7/facade/CDPlayer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/donny/adapter7/facade/DVDPlayer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/donny/adapter7/facade/PopcornPopper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/donny/adapter7/facade/Projector.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/donny/adapter7/facade/Screen.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/donny/adapter7/facade/TheaterLights.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/donny/adapter7/facade/Tuner.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/donny/adapter7/facade/HomeTheaterFacade.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="3" column="9" lean-forward="false" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/donny/templatemethod8/coffeetea/Coffee.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="3" column="5" lean-forward="false" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/donny/observer2/push/Observer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="212">
-          <caret line="14" column="1" lean-forward="false" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/donny/observer2/push/WeatherData.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-706">
-          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/donny/observer2/pull/CurrentConditionsDisplay.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="212">
-          <caret line="51" column="1" lean-forward="false" selection-start-line="51" selection-start-column="1" selection-end-line="51" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/donny/factory4/fmethod/pizza/Pizza.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-346">
-          <caret line="13" column="45" lean-forward="false" selection-start-line="13" selection-start-column="45" selection-end-line="13" selection-end-column="45" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/donny/observer2/push/Subject.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="414">
-          <caret line="23" column="1" lean-forward="false" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/donny/strategy1/Duck.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="404">
-          <caret line="47" column="1" lean-forward="false" selection-start-line="47" selection-start-column="1" selection-end-line="47" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/donny/decorate3/beverage/Beverage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="10" column="2" lean-forward="false" selection-start-line="10" selection-start-column="2" selection-end-line="10" selection-end-column="2" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/donny/decorate3/javaio/InputTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
-      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="54">
           <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-          <folding>
-            <element signature="n#list#0;n#component#0;n#project#0;n#!!top" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/donny/strategy1/MiniDuckSimulator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="8" column="29" lean-forward="true" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/donny/observer2/push/WeatherStation.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/donny/command6/simple/RemoteControlTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="9" column="32" lean-forward="false" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
+        <state relative-caret-position="72">
+          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/donny/observer2/pull/WeatherStation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="12" column="39" lean-forward="true" selection-start-line="12" selection-start-column="39" selection-end-line="12" selection-end-column="39" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/donny/observer2/swing/SwingObserverExample.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/donny/command6/simple/SimpleRemoteControl.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="126">
-          <caret line="16" column="25" lean-forward="false" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="27" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/donny/singleton5/test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/donny/factory4/fmethod/PizzaTestDrive.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/donny/command6/RemoteLoader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="32" column="14" lean-forward="false" selection-start-line="32" selection-start-column="14" selection-end-line="32" selection-end-column="14" />
+          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/donny/command6/RemoteControl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
+        <state relative-caret-position="126">
           <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
           <folding />
         </state>
@@ -809,64 +435,368 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/donny/command6/RemoteControlWithUndo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-298">
-          <caret line="6" column="3" lean-forward="false" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
+        <state relative-caret-position="108">
+          <caret line="7" column="3" lean-forward="false" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/donny/command6/simple/RemoteControlTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/donny/command6/RemoteLoader.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+        <state relative-caret-position="-1800">
+          <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/donny/adapter7/duckturkey/Duck.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/donny/adapter7/duckturkey/DuckAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/donny/adapter7/duckturkey/DuckTestDrive.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="9" column="31" lean-forward="false" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
+        <state relative-caret-position="36">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/donny/adapter7/duckturkey/MallardDuck.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/donny/adapter7/duckturkey/Turkey.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/donny/adapter7/duckturkey/TurkeyAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/donny/adapter7/duckturkey/WildTurkey.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="38" lean-forward="false" selection-start-line="0" selection-start-column="38" selection-end-line="0" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/donny/adapter7/enumiterator/EnumerationIterator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/donny/adapter7/enumiterator/IteratorEnumeration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/donny/adapter7/facade/DVDPlayer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/donny/adapter7/facade/HomeTheaterFacade.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="3" lean-forward="false" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/donny/adapter7/facade/HomeTheaterTestDrive.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+        <state relative-caret-position="36">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/donny/decorate3/beverage/StarbuzzCoffee.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/donny/adapter7/facade/PopcornPopper.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="17" column="24" lean-forward="true" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
+        <state relative-caret-position="162">
+          <caret line="15" column="4" lean-forward="false" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/donny/adapter7/facade/Screen.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/donny/adapter7/facade/TheaterLights.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/donny/adapter7/facade/Tuner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/donny/adapter7/facade/Amplifier.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/donny/adapter7/facade/CDPlayer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" column="5" lean-forward="false" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/donny/templatemethod8/coffeetea/BeverageTestDrive.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/donny/templatemethod8/coffeetea/CaffeineBeverage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/donny/templatemethod8/coffeetea/CaffeineBeverageithHook.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/donny/templatemethod8/coffeetea/Coffee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/donny/templatemethod8/coffeetea/CoffeeWithHook.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-352">
+          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/donny/templatemethod8/coffeetea/Tea.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/donny/templatemethod8/sort/Duck.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/donny/templatemethod8/sort/DuckSortTestDrive.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-46">
+          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/donny/templatemethod8/sort/MyApplet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/donny/templatemethod8/sort/MyFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/donny/iterandcomp9/composite/CompositeIterator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/donny/iterandcomp9/composite/Menu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/donny/iterandcomp9/composite/MenuItem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/donny/iterandcomp9/composite/MenuComponent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="22" lean-forward="false" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/donny/iterandcomp9/composite/MenuTestDrive.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+        <state relative-caret-position="36">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/donny/iterandcomp9/iterator/MenuTestDrive.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/donny/iterandcomp9/composite/NullIterator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="10" column="42" lean-forward="true" selection-start-line="10" selection-start-column="42" selection-end-line="10" selection-end-column="42" />
+        <state relative-caret-position="126">
+          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/donny/iterandcomp9/composite/Waitress.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/donny/iterandcomp9/iterator/CafeMenu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/donny/iterandcomp9/iterator/DinerMenu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/donny/iterandcomp9/iterator/DinerMenuIterator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/donny/iterandcomp9/iterator/Menu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="17" lean-forward="false" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/donny/iterandcomp9/iterator/MenuItem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/donny/iterandcomp9/iterator/PancakeHouseMenu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/donny/iterandcomp9/iterator/Waitress.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/donny/status10/GumballMachine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/donny/status10/GumballMachineTestDrive.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+        <state relative-caret-position="36">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
           <folding />
         </state>
       </provider>

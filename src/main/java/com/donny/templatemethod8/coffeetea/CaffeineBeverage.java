@@ -1,11 +1,8 @@
 package com.donny.templatemethod8.coffeetea;
 
-
 /**
  * 咖啡因饮料
  */
-
-
 public abstract class CaffeineBeverage {
     final void prepareRecipe(){
         boilWater();

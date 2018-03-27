@@ -1,12 +1,9 @@
 package com.donny.command6.command;
 
-
 /**
  * 宏
  * 这是一个命令，所以需要实现Command接口
  */
-
-
 public class MacroCommand implements Command {
     Command[] commands;
 

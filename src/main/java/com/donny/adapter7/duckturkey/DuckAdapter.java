@@ -2,13 +2,10 @@ package com.donny.adapter7.duckturkey;
 
 import java.util.Random;
 
-
 /**
  * 鸭子适配器
  * 鸭子 转 火鸡
  */
-
-
 public class DuckAdapter implements Turkey {
     Duck duck;
     Random random;

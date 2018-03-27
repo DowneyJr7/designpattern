@@ -3,7 +3,6 @@ package com.donny.observer2.push;
 import java.util.ArrayList;
 import java.util.List;
 
-
 /**
  * 天气数据 实现了主题接口
  */

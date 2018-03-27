@@ -1,6 +1,5 @@
 package com.donny.observer2.push;
 
-
 /**
  * 观察者
  */

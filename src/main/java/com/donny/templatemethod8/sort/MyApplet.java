@@ -3,12 +3,9 @@ package com.donny.templatemethod8.sort;
 import java.applet.Applet;
 import java.awt.*;
 
-
 /**
  * Applet
  */
-
-
 public class MyApplet extends Applet {
     String message;
 

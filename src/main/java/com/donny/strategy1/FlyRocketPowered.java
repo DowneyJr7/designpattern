@@ -4,8 +4,6 @@ package com.donny.strategy1;
 /**
  * 实现火箭飞行
  */
-
-
 public class FlyRocketPowered implements FlyBehavior {
     @Override
     public void fly() {

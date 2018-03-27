@@ -1,11 +1,8 @@
 package com.donny.templatemethod8.coffeetea;
 
-
 /**
  * 茶
  */
-
-
 public class Tea extends CaffeineBeverage {
 
     @Override

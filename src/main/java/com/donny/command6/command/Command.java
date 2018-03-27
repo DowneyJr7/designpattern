@@ -1,11 +1,8 @@
 package com.donny.command6.command;
 
-
 /**
  * 命令 对象
  */
-
-
 public interface Command {
 
     /**

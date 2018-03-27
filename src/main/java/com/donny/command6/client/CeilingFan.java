@@ -1,11 +1,7 @@
 package com.donny.command6.client;
 
 /**
-
  * CeilingFan:吊扇
-
- * 吊扇
-
  */
 public class CeilingFan {
     public static final int HIGH = 3;

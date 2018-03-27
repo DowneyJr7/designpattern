@@ -1,11 +1,8 @@
 package com.donny.templatemethod8.sort;
 
-
 /**
  * 鸭子 实现了Comparable接口
  */
-
-
 public class Duck implements Comparable {
     String name;
     int weight;

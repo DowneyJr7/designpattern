@@ -4,12 +4,9 @@ import java.io.FilterInputStream;
 import java.io.IOException;
 import java.io.InputStream;
 
-
 /**
  * 继承了FilterInputStream，这是所有InputStream的抽象装饰者
  */
-
-
 public class LowerCaseInputStream extends FilterInputStream {
     /**
      * Creates a <code>FilterInputStream</code>

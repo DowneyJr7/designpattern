@@ -1,6 +1,5 @@
 package com.donny.strategy1;
 
-
 /**
  * 鸭子 SupperClass
  */
@@ -13,7 +12,6 @@ public abstract class Duck {
     }
 
     public abstract void display();
-
 
     /**
      * 执行飞

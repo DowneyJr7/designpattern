@@ -1,11 +1,8 @@
 package com.donny.adapter7.duckturkey;
 
-
 /**
  * 野生火鸡 实现了Turkey接口
  */
-
-
 public class WildTurkey implements Turkey {
     @Override
     public void gobble() {

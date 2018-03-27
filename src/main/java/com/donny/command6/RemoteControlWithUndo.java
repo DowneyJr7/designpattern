@@ -3,12 +3,9 @@ package com.donny.command6;
 import com.donny.command6.command.Command;
 import com.donny.command6.command.NoCommand;
 
-
 /**
  * 撤销
  */
-
-
 public class RemoteControlWithUndo {
     Command[] onCommands;
     Command[] offCommands;

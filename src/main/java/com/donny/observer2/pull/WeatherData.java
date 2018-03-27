@@ -1,6 +1,5 @@
 package com.donny.observer2.pull;
 
-
 import java.util.Observable;
 
 /**
@@ -12,7 +11,6 @@ import com.donny.observer2.push.Observer;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Observable;
-
 
 public class WeatherData extends Observable {
     private float temperature;//温度

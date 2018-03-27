@@ -2,13 +2,10 @@ package com.donny.command6.command;
 
 import com.donny.command6.client.CeilingFan;
 
-
 /**
  * 吊扇关闭命令
  * 这是一个命令，所以需要实现Command接口
  */
-
-
 public class CeilingFanOffComand implements Command {
     CeilingFan ceilingFan;
     int prevSpeed;

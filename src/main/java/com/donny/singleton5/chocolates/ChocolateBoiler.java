@@ -1,11 +1,8 @@
 package com.donny.singleton5.chocolates;
 
-
 /**
  * 巧克力工厂
  */
-
-
 public class ChocolateBoiler {
     private boolean empty;//空的
     private boolean boiled;//煮

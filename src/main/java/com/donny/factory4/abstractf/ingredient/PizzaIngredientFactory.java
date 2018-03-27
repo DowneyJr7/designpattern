@@ -7,12 +7,9 @@ import com.donny.factory4.abstractf.ingredient.pepperoni.Pepperoni;
 import com.donny.factory4.abstractf.ingredient.sauce.Sauce;
 import com.donny.factory4.abstractf.ingredient.veggies.Veggies;
 
-
 /**
  * 原料工厂
  */
-
-
 public interface PizzaIngredientFactory {
 
     public Dough createDough();

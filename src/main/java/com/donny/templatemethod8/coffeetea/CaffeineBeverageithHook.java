@@ -1,11 +1,8 @@
 package com.donny.templatemethod8.coffeetea;
 
-
 /**
  * 咖啡因饮料 带钩子
  */
-
-
 public abstract class CaffeineBeverageithHook {
     final void prepareRecipe(){
         boilWater();

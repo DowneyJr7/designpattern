@@ -7,12 +7,9 @@ import com.donny.factory4.abstractf.ingredient.pepperoni.Pepperoni;
 import com.donny.factory4.abstractf.ingredient.sauce.Sauce;
 import com.donny.factory4.abstractf.ingredient.veggies.Veggies;
 
-
 /**
  * 比萨
  */
-
-
 public abstract class Pizza {
     String name;
     Dough dough;

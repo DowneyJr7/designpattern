@@ -10,7 +10,4 @@ public class CDPlayer {
     public void off(){
 
     }
-
-
-
 }

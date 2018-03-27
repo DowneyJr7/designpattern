@@ -4,8 +4,6 @@ package com.donny.adapter7.facade;
 /**
  * 家庭影院外观
  */
-
-
 public class HomeTheaterFacade {
     Amplifier amp;
     Tuner tuner;

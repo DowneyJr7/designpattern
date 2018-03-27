@@ -5,12 +5,9 @@ import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 
-
 /**
  * 简单的Swing应用：建立一个JFrame，然后放上一个按钮
  */
-
-
 public class SwingObserverExample {
     JFrame frame;
 
