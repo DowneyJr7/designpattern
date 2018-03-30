@@ -1,6 +1,5 @@
 package com.donny.strategy1;
 
-
 /**
  * 绿头鸭子
  */
