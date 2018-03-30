@@ -1,11 +1,11 @@
-package com.donny.status10;
+package com.donny.proxy11.remote;
 
 /**
  * 赢家状态 多一颗糖
  */
 public class WinnerState implements State {
-
-    GumballMachine gumballMachine;
+    //transient 告诉jvm不要序列化该字段
+    transient GumballMachine gumballMachine;
 
     public WinnerState(GumballMachine gumballMachine) {
         this.gumballMachine = gumballMachine;

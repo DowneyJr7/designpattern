@@ -1,10 +1,9 @@
-package com.donny.status10;
+package com.donny.proxy11.local;
 
 /**
  * 赢家状态 多一颗糖
  */
 public class WinnerState implements State {
-
     GumballMachine gumballMachine;
 
     public WinnerState(GumballMachine gumballMachine) {

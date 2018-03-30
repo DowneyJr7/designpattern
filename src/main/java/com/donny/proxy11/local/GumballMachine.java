@@ -1,9 +1,11 @@
-package com.donny.status10;
+package com.donny.proxy11.local;
 
 /**
  * 糖果机
  */
 public class GumballMachine {
+    private String location;
+
     private State soldOutState;
     private State noQuarterState;
     private State hasQuarterState;
@@ -13,12 +15,13 @@ public class GumballMachine {
     private State state = soldState;
     private int count = 0;
 
-    public GumballMachine(int count){
+    public GumballMachine(String location, int count){
         soldOutState = new SoldOutState(this);
         noQuarterState = new NoQuarterState(this);
         hasQuarterState = new HasQuarterState(this);
         soldState = new SoldState(this);
         winnerState = new WinnerState(this);
+        this.location = location;
         this.count = count;
         if (count > 0){
             state = noQuarterState;
@@ -81,12 +84,16 @@ public class GumballMachine {
         return winnerState;
     }
 
+    public State getState() {
+        return state;
+    }
+
     public int getCount() {
         return count;
     }
 
-    public State getState() {
-        return state;
+    public String getLocation() {
+        return location;
     }
 
     @Override

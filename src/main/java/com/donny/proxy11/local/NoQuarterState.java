@@ -1,10 +1,9 @@
-package com.donny.status10;
+package com.donny.proxy11.local;
 
 /**
  * 无币状态（可投币）
  */
 public class NoQuarterState implements State {
-
     GumballMachine gumballMachine;
 
     public NoQuarterState(GumballMachine gumballMachine){

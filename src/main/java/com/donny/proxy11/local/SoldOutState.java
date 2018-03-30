@@ -1,10 +1,9 @@
-package com.donny.status10;
+package com.donny.proxy11.local;
 
 /**
  * 售罄状态
  */
 public class SoldOutState implements State {
-
     GumballMachine gumballMachine;
 
     public SoldOutState(GumballMachine gumballMachine) {

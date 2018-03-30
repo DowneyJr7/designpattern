@@ -1,11 +1,11 @@
-package com.donny.status10;
+package com.donny.proxy11.remote;
 
 /**
  * 无币状态（可投币）
  */
 public class NoQuarterState implements State {
-
-    GumballMachine gumballMachine;
+    //transient 告诉jvm不要序列化该字段
+    transient GumballMachine gumballMachine;
 
     public NoQuarterState(GumballMachine gumballMachine){
         this.gumballMachine = gumballMachine;

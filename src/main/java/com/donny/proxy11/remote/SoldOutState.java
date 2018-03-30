@@ -1,11 +1,11 @@
-package com.donny.status10;
+package com.donny.proxy11.remote;
 
 /**
  * 售罄状态
  */
 public class SoldOutState implements State {
-
-    GumballMachine gumballMachine;
+    //transient 告诉jvm不要序列化该字段
+    transient GumballMachine gumballMachine;
 
     public SoldOutState(GumballMachine gumballMachine) {
         this.gumballMachine = gumballMachine;

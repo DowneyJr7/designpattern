@@ -1,9 +1,14 @@
-package com.donny.status10;
+package com.donny.proxy11.remote;
+
+import java.rmi.*;
+import java.rmi.server.*;
 
 /**
  * 糖果机
  */
-public class GumballMachine {
+public class GumballMachine extends UnicastRemoteObject implements GumballMachineRemote {
+    private String location;
+
     private State soldOutState;
     private State noQuarterState;
     private State hasQuarterState;
@@ -13,12 +18,13 @@ public class GumballMachine {
     private State state = soldState;
     private int count = 0;
 
-    public GumballMachine(int count){
+    public GumballMachine(String location, int count) throws RemoteException{
         soldOutState = new SoldOutState(this);
         noQuarterState = new NoQuarterState(this);
         hasQuarterState = new HasQuarterState(this);
         soldState = new SoldState(this);
         winnerState = new WinnerState(this);
+        this.location = location;
         this.count = count;
         if (count > 0){
             state = noQuarterState;
@@ -81,12 +87,16 @@ public class GumballMachine {
         return winnerState;
     }
 
+    public State getState() {
+        return state;
+    }
+
     public int getCount() {
         return count;
     }
 
-    public State getState() {
-        return state;
+    public String getLocation() {
+        return location;
     }
 
     @Override

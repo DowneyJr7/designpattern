@@ -1,0 +1,7 @@
+1、javac *.java 编译
+2、rmic MyRemoteImpl 生成Stub.class
+3、rmiregistry 执行
+4、java MyRemoteImpl 启动（新窗口）
+5、java MyRemoteClient 访问（新窗口）
+
+RMI称呼（译注：terminology，术语，重点在概念本身;nomenclature，称呼，重点在概念上贴的标签）：RMI将客户辅助对象称为stub（桩），服务辅助对象称为skeleton（骨架）。
